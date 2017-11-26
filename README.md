@@ -1,6 +1,6 @@
 # rusty
 
-This is just a test of how to use Neon in order to build a native Node Addon written in Rust.
+This is just a test of how to use [Neon](https://www.neon-bindings.com/) in order to build a native Node Addon written in Rust.
 
 The project is composed by:
 
