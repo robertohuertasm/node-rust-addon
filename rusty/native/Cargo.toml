@@ -1,0 +1,17 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+authors = ["Roberto Huertas <roberto.huertas@outlook.com>"]
+license = "MIT"
+build = "build.rs"
+
+[lib]
+name = "rusty"
+crate-type = ["dylib"]
+
+[build-dependencies]
+neon-build = "0.1.22"
+
+[dependencies]
+neon = "0.1.22"
+num_cpus = "1.4.0"
