@@ -12,5 +12,3 @@ The project is composed by:
 Go to `node-rusty` (where the test script is located) and do `npm install`. After that, just execute `node .` and see the result:
 
 <img src="https://github.com/robertohuertasm/node-rust-addon/raw/master/image.PNG">
-
-
